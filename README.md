@@ -1,0 +1,1 @@
+This repository holds the final project for the IBM Data Science Course: Tools for Data Science from Coursera. It contains a Jupyter notebook that has basic summaries and examples of functions in Python and Markdown language. 
